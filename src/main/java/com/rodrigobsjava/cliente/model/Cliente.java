@@ -1,4 +1,4 @@
-package com.rodrigobsjava.cliente.model;
+package main.java.com.rodrigobsjava.cliente.model;
 
 public class Cliente {
 	private String nome;

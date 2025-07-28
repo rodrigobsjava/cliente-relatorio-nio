@@ -1,4 +1,4 @@
-package com.rodrigobsjava.cliente.service;
+package main.java.com.rodrigobsjava.cliente.service;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.rodrigobsjava.cliente.model.Cliente;
+import main.java.com.rodrigobsjava.cliente.model.Cliente;
 
 public class ClienteService {
 	public List<Cliente> lerClientesDeCSV(String caminhoArquivo) {
